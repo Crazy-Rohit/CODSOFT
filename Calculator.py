@@ -86,14 +86,4 @@ for widget in frame.winfo_children():
 root.mainloop()
 
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
