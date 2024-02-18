@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 import tkinter as tk
 
 def calculate(operation):
@@ -104,9 +98,6 @@ for widget in frame.winfo_children():
 
 # Run the GUI
 root.mainloop()
-
-
-# In[ ]:
 
 
 
