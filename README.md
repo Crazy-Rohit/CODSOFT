@@ -12,8 +12,11 @@ Rock Paper Scissors Game: A classic game of rock-paper-scissors implemented in P
 
 Password Generator: A utility for generating strong and random passwords. Users can specify the length and complexity of the password, and the generator will provide a secure password accordingly. Tkinter is used to create the interface for user interaction.
 
-Technologies Used
+# Technologies Used
 Python: Programming language used for all projects.
+
 Tkinter: Python's standard GUI (Graphical User Interface) package used for creating interactive UI elements.
+
 Git: Version control system used for managing project files and collaborating with team members.
+
 GitHub: Hosting platform for version control and project management.
